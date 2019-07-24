@@ -1,0 +1,45 @@
+* {
+    font-family: 'Darker Grotesque', sans-serif;     
+}
+body {
+    background-image: url("../images/cool-background.png");
+    background-size:100%;
+}
+#main_panel {
+    background-color: bisque;
+    margin-left: 0.5%;
+    width: 70%;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo {
+    margin-left: 120px;
+    font-size: 600%;
+}
+h2 {
+    margin-left: 250px;
+    font-size: 300%;
+}
+
+#questions {
+    margin-left: 70px;
+    font-size: 200%;
+}
+
+#start-btn {
+    margin-left: 45%;
+    font-size: 150%;
+}
+
+#done-btn {
+    margin-left: 40%;
+    font-size: 150%;
+}
+
+#result-div {
+    margin-left: 30%;
+}
+#correct_result, #wrong_result, #unanswered_result{
+    font-size: 150%;
+}
